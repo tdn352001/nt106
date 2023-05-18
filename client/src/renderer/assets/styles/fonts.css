@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Marope';
+  font-weight: 200;
+  src: url('../fonts/manrope/Manrope-ExtraLight.ttf');
+}
+@font-face {
+  font-family: 'Marope';
+  font-weight: 300;
+  src: url('../fonts/manrope/Manrope-Light.ttf');
+}
+
+@font-face {
+  font-family: 'Marope';
+  font-weight: 400;
+  src: url('../fonts/manrope/Manrope-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Marope';
+  font-weight: 500;
+  src: url('../fonts/manrope/Manrope-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Marope';
+  font-weight: 600;
+  src: url('../fonts/manrope/Manrope-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'Marope';
+  font-weight: 700;
+  src: url('../fonts/manrope/Manrope-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Marope';
+  font-weight: 800;
+  src: url('../fonts/manrope/Manrope-ExtraBold.ttf');
+}

@@ -44,10 +44,10 @@ export enum IpcMainEvent {
 }
 
 export type TcpData<T = any> = {
-  success: boolean;
-  status: number;
+  success?: boolean;
+  status?: number;
   type: ResponseType;
-  message: string;
+  message?: string;
   data?: T;
 };
 
